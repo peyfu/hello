@@ -1,4 +1,4 @@
 #!/bin/bash
 
-printf "hello" > `date`
+printf "hello" > /tmp/`date`
 #wget -O - https://github.com/peyfu/hello/ws_setup.sh |bash
